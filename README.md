@@ -5,4 +5,4 @@ Download an image as a file via url, send a color data of the pixels to client, 
 
 ## Download exe version
 
-https://drive.google.com/file/d/1j7asolrJYDEwlAPxOCQwyOcu_tLl6_eM/view?usp=sharing
+https://drive.google.com/file/d/1AJOFcXqu3xZ_jPK_NWneLzsi2DN1uJUG/view?usp=sharing
